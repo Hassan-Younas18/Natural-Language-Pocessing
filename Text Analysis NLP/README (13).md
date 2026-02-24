@@ -50,7 +50,7 @@ Computes the percentage of word types with frequency 1 (hapax legomena), frequen
 | Encrypted Brown | ~49% | ~14% | ~37% |
 | News Articles | ~46% | ~18% | ~35% |
 | Social Media | ~45% | ~24% | ~31% |
-| French Text | varies | varies | varies |
+| French Text | 0% | 0% | 100% |
 
 ### 6. Zero Frequency (Missing Words) Analysis
 Computes the percentage of vocabulary unique to each corpus in a pair. Demonstrates the domain shift problem — a model trained on one corpus will encounter a high proportion of unseen words from another.
