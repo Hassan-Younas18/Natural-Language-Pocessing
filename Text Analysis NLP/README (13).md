@@ -14,18 +14,6 @@ This repository contains the full submission for Laboratory 1 of ICP-4721 Natura
 
 ---
 
-## Repository Structure
-
-```
-nlp-lab1-text-processing/
-│
-├── NLP_Lab1.ipynb                  # Jupyter Notebook with all code and outputs
-└── README.md
-```
-
-> **Note:** The five text corpora (random text, encrypted Brown Corpus, BBC News, Reddit, and French text) are not included in this repository as they contain manually collected data. All code to generate the random and encrypted corpora is included inside the notebook. Refer to the [Corpora Description](#corpora-description) section for details on how to recreate them.
-
----
 
 ## Corpora Description
 
